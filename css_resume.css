@@ -2,15 +2,6 @@
   box-sizing: border-box;
 }
 
-@media screen and (max-width: 1000px) {
-  .col.left{
-    width: 100%;
-  }
-  .col.right{
-    width: 100%;
-  }
-}
-
 
 body{
     background-color: darkgrey;
@@ -209,4 +200,11 @@ a.right_a:link{color: black;}
 a.right_a:visited{color: black;}
 a.right_a:hover{color: #785D2C}
 
-
+@media screen and (max-width: 1000px) {
+  .col.left{
+    width: 100%;
+  }
+  .col.right{
+    width: 100%;
+  }
+}
