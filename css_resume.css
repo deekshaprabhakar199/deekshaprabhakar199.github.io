@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 @media screen and (max-width: 800px) {
-  .col left {
+  .col{
     width: 100%;
   }
 }
