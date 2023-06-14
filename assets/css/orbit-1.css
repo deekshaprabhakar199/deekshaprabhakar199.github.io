@@ -88,6 +88,7 @@ p {
 }
 .sidebar-wrapper .contact-list li {
   margin-bottom: 15px;
+  margin-right: 20px;
 }
 .sidebar-wrapper .contact-list li:last-child {
   margin-bottom: 0;
@@ -153,7 +154,7 @@ p {
 .main-wrapper {
   background: #fff;
   padding: 60px;
-  padding-right: 300px;
+  padding-right: 320px;
 }
 .main-wrapper .section-title {
   text-transform: uppercase;
